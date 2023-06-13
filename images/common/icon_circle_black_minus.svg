@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="btn_open" transform="translate(-1349 -790)">
+    <circle id="Ellipse_1892" data-name="Ellipse 1892" cx="9.5" cy="9.5" r="9.5" transform="translate(1349 790)"/>
+    <rect id="Rectangle_1893" data-name="Rectangle 1893" class="cls-1" width="9" height="1" transform="translate(1354 799)"/>
+  </g>
+</svg>

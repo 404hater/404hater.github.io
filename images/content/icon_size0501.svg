@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="63.055" viewBox="0 0 41 63.055">
+    <defs>
+        <clipPath id="kqvbui8p4a">
+            <path data-name="사각형 4" style="fill:none" d="M0 0h41v41H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <path data-name="사각형 1" transform="translate(0 32)" style="fill:#ccc" d="M0 0h9v9H0z"/>
+        <g data-name="그룹 2">
+            <g data-name="그룹 1" style="clip-path:url(#kqvbui8p4a)">
+                <path data-name="사각형 2" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 1" transform="translate(.5 8.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 2" transform="translate(.5 16.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 3" transform="translate(.5 24.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 4" transform="translate(.5 32.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="사각형 3" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 5" transform="translate(8.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 6" transform="translate(16.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 7" transform="translate(24.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 8" transform="translate(32.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="1X1" transform="translate(21.164 60.055)" style="fill:#aaa;font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-10.289" y="0">1X1</tspan></text>
+</svg>

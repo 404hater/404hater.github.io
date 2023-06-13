@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="63.055" viewBox="0 0 41 63.055">
+    <defs>
+        <clipPath id="ng53r6vyfa">
+            <path data-name="사각형 43" style="fill:none" d="M0 0h41v41H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <path data-name="사각형 40" transform="translate(.5 8.501)" style="fill:#ccc" d="M0 0h31.999v31.999H0z"/>
+        <g data-name="그룹 24">
+            <g data-name="그룹 23" style="clip-path:url(#ng53r6vyfa)">
+                <path data-name="사각형 41" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 61" transform="translate(.5 8.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 62" transform="translate(.5 16.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 63" transform="translate(.5 24.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 64" transform="translate(.5 32.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="사각형 42" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 65" transform="translate(8.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 66" transform="translate(16.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 67" transform="translate(24.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 68" transform="translate(32.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="4X4" transform="translate(21.164 60.055)" style="fill:#aaa;font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-13.715" y="0">4X4</tspan></text>
+</svg>

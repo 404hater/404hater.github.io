@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="156" viewBox="0 0 156 156">
+    <g data-name="Ellipse 658" style="stroke-linejoin:round;stroke:#1c1c1c">
+        <circle cx="78" cy="78" r="78" style="stroke:none"/>
+        <circle cx="78" cy="78" r="77.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 15" transform="translate(-682.961 -979.069)">
+        <path data-name="선 4" transform="translate(729.336 1043.539)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M12.183 0H0"/>
+        <path data-name="선 5" transform="translate(753.707 1043.539)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M15.229 0H0"/>
+        <path data-name="선 6" transform="translate(781.122 1043.539)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M12.183 0H0"/>
+        <path data-name="선 7" transform="translate(729.336 1070.688)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M12.183 0H0"/>
+        <path data-name="선 8" transform="translate(753.707 1070.958)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M15.229 0H0"/>
+        <path data-name="선 9" transform="translate(781.122 1070.958)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M12.183 0H0"/>
+        <path data-name="선 10" transform="translate(775.031 1025.264)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 12.184V0"/>
+        <path data-name="선 11" transform="translate(775.031 1049.634)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 15.229V0"/>
+        <path data-name="선 12" transform="translate(775.031 1077.05)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 12.184V0"/>
+        <path data-name="선 13" transform="translate(747.612 1025.264)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 12.184V0"/>
+        <path data-name="선 14" transform="translate(747.612 1049.634)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 15.229V0"/>
+        <path data-name="선 15" transform="translate(747.612 1077.05)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 12.184V0"/>
+        <circle data-name="타원 4" cx="1.015" cy="1.015" transform="translate(746.596 1042.524)" style="fill:#fff" r="1.015"/>
+        <circle data-name="타원 5" cx="1.015" cy="1.015" transform="translate(774.015 1042.524)" style="fill:#fff" r="1.015"/>
+        <circle data-name="타원 6" cx="1.015" cy="1.015" transform="translate(746.596 1069.943)" style="fill:#fff" r="1.015"/>
+        <circle data-name="타원 7" cx="1.015" cy="1.015" transform="translate(774.015 1069.943)" style="fill:#fff" r="1.015"/>
+        <path data-name="패스 18" d="m754.452 1057.249 4.579 4.579 9.159-9.159" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round"/>
+        <path data-name="사각형 1" transform="translate(729.34 1025.267)" style="stroke-width:2.031px;stroke:#fff;stroke-linecap:round;fill:none;stroke-linejoin:round" d="M0 0h63.963v63.963H0z"/>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="63.055" viewBox="0 0 41 63.055">
+    <defs>
+        <clipPath id="sohhc5mmka">
+            <path data-name="사각형 32" style="fill:none" d="M0 0h41v41H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <path data-name="사각형 29" transform="translate(.499 16.501)" style="fill:#ccc" d="M0 0h23.999v23.999H0z"/>
+        <g data-name="그룹 18">
+            <g data-name="그룹 17" style="clip-path:url(#sohhc5mmka)">
+                <path data-name="사각형 30" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 39" transform="translate(.5 8.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 40" transform="translate(.5 16.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 41" transform="translate(.5 24.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 42" transform="translate(.5 32.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="사각형 31" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 43" transform="translate(8.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 44" transform="translate(16.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 45" transform="translate(24.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 46" transform="translate(32.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="3X3" transform="translate(21.164 60.055)" style="fill:#aaa;font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-12.786" y="0">3X3</tspan></text>
+</svg>

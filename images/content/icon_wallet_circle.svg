@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="h7icjlh90a">
+            <path data-name="사각형 3" style="fill:none" d="M0 0h52v52H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Ellipse 658" style="stroke-linejoin:round;stroke:#1c1c1c">
+        <circle cx="60" cy="60" r="60" style="stroke:none"/>
+        <circle cx="60" cy="60" r="59.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 18">
+        <g data-name="그룹 17" style="clip-path:url(#h7icjlh90a)" transform="translate(34 34)">
+            <path data-name="패스 17" d="M47.51 6H51v45H6a5 5 0 0 1-5-5V11" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none"/>
+            <path data-name="선 7" transform="translate(40.505 6)" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none" d="M0 0h0"/>
+            <path data-name="패스 18" d="M51 16H6A5 5 0 0 1 6 6h6.25" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none"/>
+            <path data-name="패스 19" d="m8.5 16 6.25-15L51 16" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none"/>
+            <path data-name="패스 20" d="M51 41H41a7.5 7.5 0 0 1 0-15h10z" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none"/>
+            <path data-name="선 8" transform="translate(42.25 33.5)" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none" d="M0 0h0"/>
+        </g>
+    </g>
+</svg>

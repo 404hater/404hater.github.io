@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="arw9zz3jia">
+            <path data-name="사각형 1" style="fill:none" d="M0 0h57v54H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Ellipse 658" style="stroke-linejoin:round;stroke:#1c1c1c">
+        <circle cx="60" cy="60" r="60" style="stroke:none"/>
+        <circle cx="60" cy="60" r="59.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 14">
+        <g data-name="그룹 13" style="clip-path:url(#arw9zz3jia)" transform="translate(32 37)">
+            <path data-name="패스 15" d="M34.393 1.036H56V41H1V1.036h21.607" style="stroke-width:2.017px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+            <path data-name="선 1" transform="translate(15.86 52.983)" style="stroke-width:2px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0h25.28"/>
+            <path data-name="선 2" transform="translate(22.607 40.995)" style="stroke-width:2.017px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 11.988 2.474 0"/>
+            <path data-name="선 3" transform="translate(31.919 40.995)" style="stroke-width:2.017px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="m0 0 2.474 11.988"/>
+            <path data-name="선 4" transform="translate(1 33.003)" style="stroke-width:2px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0h55"/>
+        </g>
+    </g>
+    <path data-name="선 5" transform="translate(46.409 58.321)" style="stroke-width:2px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0h28.181"/>
+    <path data-name="선 6" transform="translate(46.409 52.807)" style="stroke-width:2px;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;fill:none" d="M0 0h28.181"/>
+    <g data-name="그룹 16">
+        <g data-name="그룹 15" style="clip-path:url(#arw9zz3jia)" transform="translate(32 37)">
+            <path data-name="패스 16" d="M27.482 1.036a1.018 1.018 0 1 1 2.036 0 1.018 1.018 0 1 1-2.036 0" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

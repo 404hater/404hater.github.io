@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.98" height="64.03" viewBox="0 0 58.98 64.03">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-width: 2.02px;
+      }
+
+      .cls-2 {
+        stroke-width: 2.04px;
+      }
+
+      .cls-3 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="icon_time" transform="translate(-610.01 -264.98)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(52.221 -1178.375)">
+      <g id="그룹_1" data-name="그룹 1">
+        <ellipse id="타원_5" data-name="타원 5" class="cls-1" cx="24.85" cy="24.357" rx="24.85" ry="24.357" transform="translate(562.428 1451.018)"/>
+        <line id="선_13" data-name="선 13" class="cls-2" x2="4.518" transform="translate(585.019 1444.375)"/>
+        <line id="선_14" data-name="선 14" class="cls-3" y2="6.643" transform="translate(587.279 1444.375)"/>
+        <path id="패스_8" data-name="패스 8" class="cls-1" d="M563.317,1448.757a4.584,4.584,0,0,1,6.39,0h0l-9.585,9.4h0a4.368,4.368,0,0,1,0-6.263Z"/>
+        <line id="선_15" data-name="선 15" class="cls-1" x2="4.792" y2="4.697" transform="translate(564.914 1453.455)"/>
+        <path id="패스_9" data-name="패스 9" class="cls-1" d="M614.435,1451.889a4.367,4.367,0,0,1,0,6.263h0l-9.585-9.4h0a4.584,4.584,0,0,1,6.39,0Z"/>
+        <line id="선_16" data-name="선 16" class="cls-1" x1="4.792" y2="4.697" transform="translate(604.85 1453.455)"/>
+        <path id="패스_10" data-name="패스 10" class="cls-1" d="M587.279,1459.875v15.5l-6.777,8.857"/>
+        <path id="패스_11" data-name="패스 11" class="cls-1" d="M601.963,1499.732l3.389,6.643H569.206l3.389-6.643"/>
+      </g>
+    </g>
+  </g>
+</svg>

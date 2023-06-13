@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #111;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_wallet_circle" transform="translate(-315 -370)">
+    <g id="Ellipse_658" data-name="Ellipse 658" class="cls-1" transform="translate(315 370)">
+      <circle class="cls-3" cx="60" cy="60" r="60"/>
+      <circle class="cls-4" cx="60" cy="60" r="59.5"/>
+    </g>
+    <g id="icon_wallet" transform="translate(-27 307.5)">
+      <g id="Wallet">
+        <path id="패스_1" data-name="패스 1" class="cls-2" d="M423.51,102.5H427v45H382a5,5,0,0,1-5-5v-35"/>
+        <line id="선_1" data-name="선 1" class="cls-2" transform="translate(416.505 102.5)"/>
+        <path id="패스_2" data-name="패스 2" class="cls-2" d="M427,112.5H382a5,5,0,0,1-5-5h0a5,5,0,0,1,5-5h6.25"/>
+        <path id="패스_3" data-name="패스 3" class="cls-2" d="M384.5,112.5l6.25-15,36.25,15"/>
+        <path id="사각형_1" data-name="사각형 1" class="cls-2" d="M7.5,0h10a0,0,0,0,1,0,0V15a0,0,0,0,1,0,0H7.5A7.5,7.5,0,0,1,0,7.5v0A7.5,7.5,0,0,1,7.5,0Z" transform="translate(409.5 122.5)"/>
+        <line id="선_2" data-name="선 2" class="cls-2" transform="translate(418.25 130)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="icon_alert" transform="translate(-289.75 -1540)">
+    <circle id="타원_1" data-name="타원 1" class="cls-1" cx="31" cy="31" r="31" transform="translate(290.75 1541)"/>
+    <g id="그룹_1" data-name="그룹 1">
+      <line id="선_1" data-name="선 1" class="cls-2" y2="21.333" transform="translate(321.75 1556)"/>
+      <line id="선_2" data-name="선 2" class="cls-2" y1="3" transform="translate(321.75 1585)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.993" height="40.007" viewBox="0 0 56.993 40.007">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #222;
+        stroke: #222;
+        stroke-width: 2.007px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="ic_erase" transform="translate(-1207.003 -792.997)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(760.123 514.366)">
+      <path id="패스_32" data-name="패스 32" class="cls-1" d="M502.87,317.634H464.619l-16.736-19,16.736-19H502.87Z"/>
+    </g>
+    <g id="Vector_Smart_Object-2" data-name="Vector Smart Object" transform="translate(694.712 577.35)">
+      <g id="그룹_168" data-name="그룹 168">
+        <line id="선_716" data-name="선 716" class="cls-2" x2="12" y2="12" transform="translate(539.788 230.15)"/>
+        <line id="선_717" data-name="선 717" class="cls-2" y1="12" x2="12" transform="translate(539.788 230.15)"/>
+      </g>
+    </g>
+  </g>
+</svg>

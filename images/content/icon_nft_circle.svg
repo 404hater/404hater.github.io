@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+        <clipPath id="3kt2fn8e1a">
+            <path data-name="사각형 4" style="fill:none" d="M0 0h53.962v62H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Ellipse 658" style="stroke-linejoin:round;stroke:#1c1c1c">
+        <circle cx="60" cy="60" r="60" style="stroke:none"/>
+        <circle cx="60" cy="60" r="59.5" style="fill:none"/>
+    </g>
+    <g data-name="그룹 20">
+        <g data-name="그룹 19" style="clip-path:url(#3kt2fn8e1a)" transform="translate(33 29)">
+            <path data-name="패스 21" d="M34.1 5.112 26.98 1 1 16v30l25.98 15 25.981-15V16L44.9 11.345" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none"/>
+        </g>
+    </g>
+    <path data-name="패스 22" d="m23.116 49.458 3.865 2.231L44.9 41.345v-20.69L26.981 10.31 9.063 20.655v20.69l3.3 1.907" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none" transform="translate(33 29)"/>
+    <g data-name="그룹 22">
+        <g data-name="그룹 21" style="clip-path:url(#3kt2fn8e1a)" transform="translate(33 29)">
+            <path data-name="패스 23" d="M20.985 26.934v4.28l-3.909-4.77a.773.773 0 0 0-.6-.283h-.455a.773.773 0 0 0-.772.773v6.78a.773.773 0 0 0 .772.773h.357a.774.774 0 0 0 .774-.773v-4.278l3.91 4.764a.77.77 0 0 0 .6.283h.455a.773.773 0 0 0 .773-.773v-6.78a.773.773 0 0 0-.773-.773h-.358a.772.772 0 0 0-.772.773" style="fill:#fff"/>
+            <path data-name="패스 24" d="M30.555 26.934a.773.773 0 0 0-.773-.773h-4.746a.773.773 0 0 0-.773.773v6.78a.773.773 0 0 0 .773.773h.393a.773.773 0 0 0 .773-.773v-2.259h3.068a.773.773 0 1 0 0-1.547H26.2v-2.2h3.58a.773.773 0 0 0 .773-.773" style="fill:#fff"/>
+            <path data-name="패스 25" d="M34.119 33.714v-5.983h-1.891a.773.773 0 0 1-.774-.774v-.023a.773.773 0 0 1 .774-.773h5.709a.773.773 0 0 1 .773.773v.023a.773.773 0 0 1-.773.774h-1.892v5.983a.773.773 0 0 1-.773.773h-.38a.773.773 0 0 1-.773-.773" style="fill:#fff"/>
+            <path data-name="선 9" transform="translate(39.831 8.419)" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none" d="M0 0h0"/>
+            <path data-name="선 10" transform="translate(17.846 46.414)" style="stroke:#fff;stroke-linecap:round;stroke-width:2px;stroke-linejoin:round;fill:none" d="M0 0h0"/>
+        </g>
+    </g>
+</svg>

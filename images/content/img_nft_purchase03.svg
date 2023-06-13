@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #111;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2.004px;
+      }
+
+      .cls-3 {
+        stroke-width: 2.007px;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_receipt_circle" transform="translate(-845 -370)">
+    <g id="Ellipse_658" data-name="Ellipse 658" class="cls-1" transform="translate(845 370)">
+      <circle class="cls-5" cx="60" cy="60" r="60"/>
+      <circle class="cls-6" cx="60" cy="60" r="59.5"/>
+    </g>
+    <g id="icon_receipt" transform="translate(612.91 -126.722)">
+      <path id="패스_5" data-name="패스 5" class="cls-2" d="M307.542,558.46h-6.907a3.059,3.059,0,0,0,0,6.118h5.08a3.059,3.059,0,0,1,0,6.118h-8.128"/>
+      <line id="선_9" data-name="선 9" class="cls-3" y2="4.079" transform="translate(302.786 570.695)"/>
+      <line id="선_10" data-name="선 10" class="cls-3" y2="4.079" transform="translate(302.786 554.381)"/>
+      <line id="선_11" data-name="선 11" class="cls-4" x2="6.985" transform="translate(287.553 550.581)"/>
+      <line id="선_12" data-name="선 12" class="cls-4" x2="21.209" transform="translate(287.553 541.736)"/>
+      <path id="패스_6" data-name="패스 6" class="cls-2" d="M272.31,531.726h38.668a7.125,7.125,0,0,1,7.112,7.138v47.67l-3.088-3.1-3.516-3.528-6.6,6.628-6.647-6.671-6.763,6.787-6.561-6.585-6.63,6.654V553.139"/>
+      <path id="패스_7" data-name="패스 7" class="cls-2" d="M269.342,553.139H266.09V537.844a6.1,6.1,0,1,1,12.192,0v15.295"/>
+      <ellipse id="타원_2" data-name="타원 2" cx="1.016" cy="1.02" rx="1.016" ry="1.02" transform="translate(301.77 553.361)"/>
+      <ellipse id="타원_3" data-name="타원 3" cx="1.016" cy="1.02" rx="1.016" ry="1.02" transform="translate(272.833 552.119)"/>
+      <ellipse id="타원_4" data-name="타원 4" cx="1.016" cy="1.02" rx="1.016" ry="1.02" transform="translate(301.77 573.754)"/>
+    </g>
+  </g>
+</svg>

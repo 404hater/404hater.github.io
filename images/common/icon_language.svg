@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+    <g data-name="그룹 7" transform="translate(-701.861 -1086.859)">
+        <circle data-name="타원 1" cx="16" cy="16" r="16" transform="translate(702.861 1087.859)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="패스 8" d="M730.673 1093.066a21.48 21.48 0 0 1-23.624 0" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="패스 9" d="M730.673 1114.651a21.481 21.481 0 0 0-23.619 0" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+        <ellipse data-name="타원 2" cx="7.758" cy="16" rx="7.758" ry="16" transform="translate(711.103 1087.859)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="선 1" transform="translate(702.861 1103.859)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px" d="M0 0h32"/>
+        <path data-name="선 2" transform="translate(718.861 1087.859)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px" d="M0 32V0"/>
+    </g>
+</svg>

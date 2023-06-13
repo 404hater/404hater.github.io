@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156" height="156" viewBox="0 0 156 156">
+    <g data-name="Ellipse 658" style="stroke-linejoin:round;stroke:#1c1c1c">
+        <circle cx="78" cy="78" r="78" style="stroke:none"/>
+        <circle cx="78" cy="78" r="77.5" style="fill:none"/>
+    </g>
+    <g transform="translate(-398.702 -985.878)">
+        <ellipse data-name="타원 8" cx="1.349" cy="1.352" rx="1.349" ry="1.352" transform="translate(466.475 1032.228)" style="fill:#fff"/>
+        <g data-name="그룹 16">
+            <path data-name="패스 19" d="M451.532 1048.29h7.205l7.105 26.942h24.918" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+            <path data-name="패스 20" d="M464.053 1068.449h28.641l3.515-13.377" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+            <ellipse data-name="타원 9" cx="1.884" cy="1.888" rx="1.884" ry="1.888" transform="translate(467.824 1079.755)" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+            <ellipse data-name="타원 10" cx="1.884" cy="1.888" rx="1.884" ry="1.888" transform="translate(484.539 1079.755)" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+        </g>
+        <path data-name="패스 21" d="M478.524 1057.406v-24.334h36.026v61.972h-75.976v-61.464h17.87" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+        <path data-name="패스 22" d="m470.659 1049.764 7.865 8.168 7.865-8.168" style="stroke:#fff;stroke-linecap:round;stroke-width:2.026px;fill:none;stroke-linejoin:round"/>
+    </g>
+</svg>

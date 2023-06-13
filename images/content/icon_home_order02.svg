@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #111;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_2" data-name="사각형 2" class="cls-1" width="44" height="58"/>
+    </clipPath>
+  </defs>
+  <g id="icon_select_circle" transform="translate(-448 -1025)">
+    <g id="Ellipse_658" data-name="Ellipse 658" class="cls-2" transform="translate(448 1025)">
+      <circle class="cls-5" cx="60" cy="60" r="60"/>
+      <circle class="cls-1" cx="60" cy="60" r="59.5"/>
+    </g>
+    <g id="icon_select" transform="translate(486 1056)">
+      <g id="그룹_2" data-name="그룹 2">
+        <g id="그룹_1" data-name="그룹 1" class="cls-3">
+          <line id="선_3" data-name="선 3" class="cls-4" transform="translate(43 48.542)"/>
+          <path id="패스_4" data-name="패스 4" class="cls-4" d="M43,57H1V5.2H43V41.4"/>
+          <line id="선_4" data-name="선 4" class="cls-4" y2="8.4" transform="translate(22 1)"/>
+          <line id="선_5" data-name="선 5" class="cls-4" y2="8.4" transform="translate(10.8 1)"/>
+          <line id="선_6" data-name="선 6" class="cls-4" y2="8.4" transform="translate(33.2 1)"/>
+        </g>
+      </g>
+      <path id="패스_5" data-name="패스 5" class="cls-4" d="M9.4,23.4l2.8,2.8,6.3-6.3"/>
+      <line id="선_7" data-name="선 7" class="cls-4" x2="8.4" transform="translate(26.2 24.8)"/>
+      <path id="패스_6" data-name="패스 6" class="cls-4" d="M9.4,41.6l2.8,2.8,6.3-6.3"/>
+      <line id="선_8" data-name="선 8" class="cls-4" x2="8.4" transform="translate(26.2 43)"/>
+    </g>
+  </g>
+</svg>

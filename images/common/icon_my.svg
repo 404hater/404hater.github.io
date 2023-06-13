@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_15" data-name="사각형 15" class="cls-1" width="17" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="mypage" transform="translate(-1118 -38)">
+    <g id="Vector_Smart_Object" data-name="Vector Smart Object" transform="translate(1118 38)">
+      <g id="그룹_33" data-name="그룹 33">
+        <g id="그룹_32" data-name="그룹 32" class="cls-2">
+          <circle id="타원_10" data-name="타원 10" class="cls-3" cx="3.25" cy="3.25" r="3.25" transform="translate(5.25 0.5)"/>
+          <path id="패스_70" data-name="패스 70" class="cls-4" d="M.5,16.5c0-3,3.306-7.5,8-7.5s8,4.5,8,7.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

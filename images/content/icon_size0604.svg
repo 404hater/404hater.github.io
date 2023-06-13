@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="64.055" viewBox="0 0 43 64.055">
+    <defs>
+        <clipPath id="ut91ovuwma">
+            <path data-name="사각형 98" style="fill:none" d="M0 0h43v43H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <path data-name="사각형 95" transform="translate(.5 14.5)" style="fill:#ccc" d="M0 0h28v28H0z"/>
+        <g data-name="그룹 54">
+            <g data-name="그룹 53" style="clip-path:url(#ut91ovuwma)">
+                <path data-name="사각형 96" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 181" transform="translate(.5 7.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="선 182" transform="translate(.5 14.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="선 183" transform="translate(.5 21.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="선 184" transform="translate(.5 28.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="선 185" transform="translate(.5 35.5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="사각형 97" transform="translate(.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 186" transform="translate(7.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+                <path data-name="선 187" transform="translate(14.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+                <path data-name="선 188" transform="translate(21.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+                <path data-name="선 189" transform="translate(28.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+                <path data-name="선 190" transform="translate(35.5 .5)" style="stroke:#ddd;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="4X4" transform="translate(22.164 61.055)" style="fill:#aaa;font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-13.715" y="0">4X4</tspan></text>
+</svg>

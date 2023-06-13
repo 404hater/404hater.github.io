@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="btn_select" transform="translate(-611.529 -203)">
+    <circle id="타원_14" data-name="타원 14" class="cls-1" cx="12" cy="12" r="12" transform="translate(611.529 203)"/>
+    <path id="패스_26" data-name="패스 26" d="M617.828,213.962a.948.948,0,0,1,1.339.042l2.9,3.085,5.829-6.211a.947.947,0,1,1,1.381,1.3l-6.519,6.947a.948.948,0,0,1-1.382,0l-3.586-3.821A.947.947,0,0,1,617.828,213.962Z"/>
+  </g>
+</svg>

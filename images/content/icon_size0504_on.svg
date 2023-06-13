@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="63.055" viewBox="0 0 41 63.055">
+    <defs>
+        <clipPath id="7j6em8vhea">
+            <path data-name="사각형 46" style="fill:none" d="M0 0h41v41H0z"/>
+        </clipPath>
+        <clipPath id="kiavi8e9ob">
+            <path data-name="사각형 50" transform="translate(.5 8.501)" style="fill:none" d="M0 0h31.999v31.999H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <g data-name="그룹 26">
+            <g data-name="그룹 25" style="clip-path:url(#7j6em8vhea)">
+                <path data-name="사각형 44" transform="translate(.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 69" transform="translate(.5 8.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40"/>
+                <path data-name="선 70" transform="translate(.5 16.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40"/>
+                <path data-name="선 71" transform="translate(.5 24.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40"/>
+                <path data-name="선 72" transform="translate(.5 32.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40"/>
+                <path data-name="사각형 45" transform="translate(.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 73" transform="translate(8.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 40V0"/>
+                <path data-name="선 74" transform="translate(16.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 40V0"/>
+                <path data-name="선 75" transform="translate(24.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 40V0"/>
+                <path data-name="선 76" transform="translate(32.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 40V0"/>
+            </g>
+        </g>
+        <path data-name="사각형 47" d="M.5 8.501h31.999V40.5H.5z"/>
+        <g data-name="그룹 28">
+            <g data-name="그룹 27" style="clip-path:url(#kiavi8e9ob)">
+                <path data-name="사각형 48" transform="translate(.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 77" transform="translate(.5 8.5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 78" transform="translate(.5 16.5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 79" transform="translate(.5 24.5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="선 80" transform="translate(.5 32.5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40"/>
+                <path data-name="사각형 49" transform="translate(.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h40v40H0z"/>
+                <path data-name="선 81" transform="translate(8.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 82" transform="translate(16.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 83" transform="translate(24.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+                <path data-name="선 84" transform="translate(32.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 40V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="4X4" transform="translate(21.164 60.055)" style="font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-13.715" y="0">4X4</tspan></text>
+</svg>

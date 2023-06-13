@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+    <defs>
+        <clipPath id="vlwtc8g83a">
+            <path style="fill:none" d="M0 0h14v14H0z"/>
+        </clipPath>
+    </defs>
+    <g style="clip-path:url(#vlwtc8g83a)">
+        <path data-name="선 19" style="stroke:#111;stroke-miterlimit:10;stroke-width:2.333px;fill:none" d="m0 0 14 14"/>
+        <path data-name="선 20" style="stroke:#111;stroke-miterlimit:10;stroke-width:2.333px;fill:none" d="M0 14 14 0"/>
+    </g>
+</svg>

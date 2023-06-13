@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="64.055" viewBox="0 0 43 64.055">
+    <defs>
+        <clipPath id="9wrq1wq5pa">
+            <path data-name="사각형 134" style="fill:none" d="M0 0h43v43H0z"/>
+        </clipPath>
+        <clipPath id="rj2drfu6zb">
+            <path data-name="사각형 138" transform="translate(.5 28.501)" style="fill:none" d="M0 0h13.999v13.999H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Vector Smart Object">
+        <g data-name="그룹 74">
+            <g data-name="그룹 73" style="clip-path:url(#9wrq1wq5pa)">
+                <path data-name="사각형 132" transform="translate(.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 273" transform="translate(.5 14.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h42"/>
+                <path data-name="선 274" transform="translate(.5 28.5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h42"/>
+                <path data-name="사각형 133" transform="translate(.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 275" transform="translate(14.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 42V0"/>
+                <path data-name="선 276" transform="translate(28.5 .5)" style="stroke-miterlimit:10;stroke:#ddd;fill:none" d="M0 42V0"/>
+            </g>
+        </g>
+        <path data-name="사각형 135" d="M.5 28.501h13.999V42.5H.5z"/>
+        <g data-name="그룹 76">
+            <g data-name="그룹 75" style="clip-path:url(#rj2drfu6zb)">
+                <path data-name="사각형 136" transform="translate(.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 277" transform="translate(.5 28.5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h42"/>
+                <path data-name="사각형 137" transform="translate(.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 0h42v42H0z"/>
+                <path data-name="선 278" transform="translate(14.5 .5)" style="stroke:#666;stroke-miterlimit:10;fill:none" d="M0 42V0"/>
+            </g>
+        </g>
+    </g>
+    <text data-name="1X1" transform="translate(22.164 61.055)" style="fill:#111;font-size:13px;font-family:MontserratRoman-Medium,Montserrat;font-weight:500;letter-spacing:.08em"><tspan x="-10.289" y="0">1X1</tspan></text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65.309" height="65" viewBox="0 0 65.309 65">
+    <g data-name="Vector Smart Object" transform="translate(-604.147 -1622.984)">
+        <path data-name="패스 1" d="M664.2 1629.636h3.938v50.791h-50.789a5.643 5.643 0 0 1-5.643-5.643v-39.5" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none"/>
+        <path data-name="선 1" transform="translate(656.294 1629.636)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none" d="M0 0h0"/>
+        <path data-name="패스 2" d="M668.14 1640.922h-50.791a5.643 5.643 0 0 1-5.643-5.643h0a5.643 5.643 0 0 1 5.643-5.643h7.051" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none"/>
+        <path data-name="패스 3" d="m620.171 1640.922 7.054-16.93 40.915 16.93" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none"/>
+        <path data-name="사각형 1" d="M8.465 0h11.287v16.93h0H8.465A8.465 8.465 0 0 1 0 8.465v0A8.465 8.465 0 0 1 8.465 0z" transform="translate(648.388 1652.209)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none"/>
+        <path data-name="선 2" transform="translate(658.264 1660.674)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none" d="M0 0h0"/>
+        <circle data-name="타원 1" cx="16.124" cy="16.124" r="16.124" transform="translate(604.147 1655.736)" style="fill:#fff"/>
+        <g data-name="그룹 1">
+            <circle data-name="타원 2" cx="12.093" cy="12.093" r="12.093" transform="translate(608.178 1659.767)" style="fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px"/>
+            <path data-name="선 3" transform="translate(615.521 1667.11)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none" d="m0 0 9.501 9.501"/>
+            <path data-name="선 4" transform="translate(615.521 1667.11)" style="stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.016px;fill:none" d="M0 9.501 9.501 0"/>
+        </g>
+    </g>
+</svg>
